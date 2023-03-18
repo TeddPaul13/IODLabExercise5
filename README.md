@@ -1,2 +1,3 @@
 # IODLabExercise5
-My Website with Bootstrap
+## My Website with Bootstrap
+### Using Bootstrap for responsiveness 
