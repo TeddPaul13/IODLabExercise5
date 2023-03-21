@@ -23,5 +23,9 @@ img{
     height: 100%;
     
 }
+#navbarTogglerDemo{
+    display: flex;
+    justify-content: right;
+}
 /* Resume Page Style */
 
